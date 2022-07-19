@@ -1,2 +1,0 @@
-export const COUNTRY_NAME = 'COUNTRY_NAME';
-export const FETCH_USERS_SUCCESS = 'FETCH_USERS_SUCCESS';
